@@ -131,7 +131,7 @@ struct profileview: View {
                     Text("- Butter chicken                                               - Prata bread                                                    - Fish curry")
                         .font(.body)
                         .fontWeight(.regular)
-                        .offset(x:17, y:-335)
+                        .offset(x:17, y:-336)
                         .foregroundColor(.black)
                         .lineLimit(nil)
                         .fixedSize(horizontal:false, vertical:true)
